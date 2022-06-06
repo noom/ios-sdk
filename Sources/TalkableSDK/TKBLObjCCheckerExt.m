@@ -1,0 +1,1 @@
+../../Talkable/TKBLObjCCheckerExt.m
