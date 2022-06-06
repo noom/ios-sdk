@@ -14,7 +14,7 @@
 #import "TKBLObjCChecker.h"
 #import "TKBLHelper.h"
 
-#import "AFNetworking.h"
+@import AFNetworking;
 
 #ifndef TKBL_API_VERSION
     #define TKBL_API_VERSION    @"v2"
